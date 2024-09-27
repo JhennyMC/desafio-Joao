@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<table border=" 1"> 
+<tr>    
+    <th>nome</th>
+    <th>idade</th>
+    <th>CPF</th>
+</tr>
+<tr> 
+    <td>Marie</td>
+    <td>21</td>
+    <td>8773408679</td>
+</tr>
+<tr> 
+    <td>Julie</td>
+    <td>24</td>
+    <td>6575675678</td>
+</tr>
+
+<tr>
+    <td>Mario</td>
+    <td>26</td>
+    <td>8739857898</td>
+
+</tr>
+</table>
+
+</br> 
+
+<ol> <h3>Lista de compras:</h3>
+    <li>Batata</li>
+    <li>Cenoura</li>
+    <li>Uva</li>
+    <li>Banana</li>
+    <li>Maça</li>
+
+
+</ol>
+
+<p>file:///C:/Users/jhennifer.mendonca/teste/index.html</p>
+
+
+
+
+
+
+</body>
+</html>
